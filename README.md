@@ -12,5 +12,6 @@ Este informe tiene como objetivo proporcionar una visión integral del estado ac
 <li>Analizar la calidad del servicio de internet (velocidad, estabilidad, latencia) y telefonía móvil (cobertura, calidad de llamadas) en distintas regiones del país e
 identificar áreas con problemas recurrentes de conectividad y proponer posibles soluciones.</li>
 <li>Crear e implementar un DASHBOARD, que muestre en forma dinamica, los datos importantes estudiados, para la toma de desiciones.</li>
+
 # ESTUDIOS
 Para dicho proyecto, se recibe como datos primarios los brindados por la empresa, https://indicadores.enacom.gob.ar/datos-abiertos, viendo que los mismos estaban formados por archivos en formato xlsx (excel), 
