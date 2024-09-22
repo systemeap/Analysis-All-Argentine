@@ -14,4 +14,5 @@ identificar áreas con problemas recurrentes de conectividad y proponer posibles
 <li>Crear e implementar un DASHBOARD, que muestre en forma dinamica, los datos importantes estudiados, para la toma de desiciones.</li>
 
 # ESTUDIOS
-Para dicho proyecto, se recibe como datos primarios los brindados por la empresa, https://indicadores.enacom.gob.ar/datos-abiertos, viendo que los mismos estaban formados por archivos en formato xlsx (excel), 
+Para dicho proyecto, se recibe como datos primarios los brindados por la empresa ALL ARGENTINE, https://indicadores.enacom.gob.ar/datos-abiertos, viendo que los mismos estaban formados por archivos en formato xlsx (excel), algunos con pocas paginas y otros como "internet", con 15 paginas, se elige como tipo de archivo el formato xlsx.
+Se utilizo la tecnica del (EDA - Analisis Exploratorio de los Datos) 
