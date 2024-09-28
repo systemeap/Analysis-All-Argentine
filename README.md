@@ -1,5 +1,5 @@
-# Analysis-All-Argentine
-Análisis de datos de telecomunicaciones en Argentina para la empresa All Argentine. Incluye exploración de datos, graficos relacionados, Proceso EDA y DASHBOARD, relacionado con la calidad del servicio de internet y la satisfacción de los clientes y otros estudios. Herramientas: POWER BI, JUPYTER, PYTHON.
+# Analysis-All-Argentina
+Análisis de datos de telecomunicaciones en Argentina para la empresa All Argentina. Incluye exploración de datos, graficos relacionados, Proceso EDA y DASHBOARD, relacionado con la calidad del servicio de internet y la satisfacción de los clientes y otros estudios. Herramientas: POWER BI, JUPYTER, PYTHON.
 # APERTURA
 Las telecomunicaciones en Argentina han experimentado una transformación significativa en las últimas décadas, impulsadas por el avance tecnológico y la creciente demanda de conectividad en un mundo cada vez más digitalizado. Desde la expansión de las redes de banda ancha y la adopción masiva de dispositivos móviles, hasta la implementación de tecnologías emergentes como la fibra óptica y el 5G, el sector se ha convertido en un pilar fundamental para el desarrollo económico y social del país.
 
@@ -15,4 +15,9 @@ identificar áreas con problemas recurrentes de conectividad y proponer posibles
 
 # ESTUDIOS
 Para dicho proyecto, se recibe como datos primarios los brindados por la empresa ALL ARGENTINE, https://indicadores.enacom.gob.ar/datos-abiertos, viendo que los mismos estaban formados por archivos en formato xlsx (excel), algunos con pocas paginas y otros como "internet", con 15 paginas, se elige como tipo de archivo el formato xlsx.
-Se utilizo la tecnica del (EDA - Analisis Exploratorio de los Datos) 
+Se utilizo la tecnica del (EDA - Analisis Exploratorio de los Datos).
+# DETALLES MAS RELEVANTES
+# KPIs ANALIZADOS
+# DASHBOARD 
+# REQUERIMIENTOS 
+# CONTACTO Y LINKS 
