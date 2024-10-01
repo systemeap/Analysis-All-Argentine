@@ -1,11 +1,13 @@
 # Analysis-All-Argentina
 Este proyecto ha sido desarrollado para ALL ARGENTINA, una empresa que brinda servicios de análisis de datos a nivel nacional. Me contrato a mi como DATA ANALITICS. El objetivo principal es analizar datos de ENACOM (Ente Nacional de Comunicaciones), enfocados en los servicios de internet en Argentina. El análisis de datos busca identificar patrones clave de conectividad y calidad del servicio, con el fin de proporcionar información valiosa que pueda apoyar en la toma de decisiones estratégicas para mejorar la infraestructura de telecomunicaciones. con respecto a la provincia que lo solicite.
+
 # APERTURA
 Las telecomunicaciones en Argentina han experimentado una transformación significativa en las últimas décadas, impulsadas por el avance tecnológico y la creciente demanda de conectividad en un mundo cada vez más digitalizado. Desde la expansión de las redes de banda ancha y la adopción masiva de dispositivos móviles, hasta la implementación de tecnologías emergentes como la fibra óptica y el 5G, el sector se ha convertido en un pilar fundamental para el desarrollo económico y social del país.
 
 En este contexto, la industria de las telecomunicaciones enfrenta tanto oportunidades como desafíos. La necesidad de garantizar el acceso a servicios de calidad en todas las regiones, incluidas las más remotas, sigue siendo un objetivo primordial. Al mismo tiempo, la pandemia de COVID-19 ha evidenciado la importancia crítica de la infraestructura de telecomunicaciones para asegurar la continuidad de actividades esenciales como la educación, el trabajo remoto y la atención médica a distancia.
 
 Este informe tiene como objetivo proporcionar una visión integral del estado actual de las telecomunicaciones en Argentina. Se analizarán las principales tendencias del mercado, la evolución de la infraestructura y los servicios, así como los desafíos regulatorios y tecnológicos que enfrenta el sector. Además, se explorarán las expectativas futuras en términos de innovación y expansión de la red, con el fin de entender el papel que jugará este sector en la transformación digital del país.
+
 # OBJETIVOS
 <li>Realizar un estudio general sobre los datos brindados por la empresa ALL ARGENTINE, relacionados a los distintas tecnicas de comunicacion en ARGENTINA, centrandose en la INTERNET y sus distintas tecnologias</li>
 <li>Aplicar o crear indicadores claves de rendimientos (KPIs), para medir la eficacia e eficiencia de los servicios.</li>
@@ -66,7 +68,14 @@ Mapas de calor: Representación geoespacial de las velocidades de internet en ca
 Gráfico de líneas: Evolución temporal de la penetración de internet en la población y los hogares.
 Gráficos circulares (pastel): Distribución porcentual de los accesos por velocidad y tecnología.
 # KPIs ANALIZADOS
-Para dicho estudio se nos solicito el sigueinte KPIs, 
+Para dicho estudio se nos solicito el sigueinte KPIs
+1) Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. La fórmula es la siguiente:
+ KPI = ((Nuevoacceso - AccesoActual / AccesoActual)*100)
+   
+    
+
+
+
 
 # DASHBOARD 
 Link de donde se encuentra el DASHBOARD.
