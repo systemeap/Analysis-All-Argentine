@@ -15,8 +15,29 @@ identificar áreas con problemas recurrentes de conectividad y proponer posibles
 
 # ESTUDIOS
 Para dicho proyecto, se recibe como datos primarios los brindados por la empresa ALL ARGENTINE, https://indicadores.enacom.gob.ar/datos-abiertos, viendo que los mismos estaban formados por archivos en formato xlsx (excel), algunos con pocas paginas y otros como "internet", con 15 paginas, se elige como tipo de archivo el formato xlsx.
-Se utilizo la tecnica del (EDA - Analisis Exploratorio de los Datos).
+Archivos Utilizados
+1) Internet.xlsx - Este archivo contiene 15 hojas, cada una representando diferentes aspectos de la conectividad en Argentina. Se analizaron y graficaron 7 hojas específicas que ofrecen una visión integral sobre la calidad y el acceso a internet:
+Velocidad sin rangos: Información cruda de las velocidades de internet por provincia y trimestre.
+
+Accesos tecnología localidad: Desglose de accesos a internet por tipo de tecnología (ADSL, Cablemódem, Fibra Óptica, etc.) a nivel de localidad.
+
+Velocidad % por provincia: Distribución porcentual de las velocidades de conexión en cada provincia.
+
+Accesos por tecnología: Número de accesos por cada tipo de tecnología a nivel nacional.
+
+Penetración población: Penetración del servicio de internet en la población general.
+
+Penetración hogares: Nivel de penetración del servicio de internet en los hogares.
+
+Accesos por velocidad: Desglose de los accesos según el rango de velocidad contratado.
+
+Primero se hizo uso del proceso de ETL (Extraccion, Transformacion y Limpieza), una vez analizados, limpieza de valores nulos, se hicieron transformaciones de tipos de datos, normalizaciones de las columnas y de las filas y luego se analizo las relaciones que pueden tener entre si.
+
+Se utilizo la tecnica del (EDA - Analisis Exploratorio de los Datos). Se exploraron y se hicieron graficas, para ver valores atipicos o fuera de rango, analisis atravez de graficos 
+que me muestran las tendencias y las bajas en los usos de las distintas tecnologias y velocidades.
+
 # DETALLES MAS RELEVANTES
+
 # KPIs ANALIZADOS
 # DASHBOARD 
 # REQUERIMIENTOS 
