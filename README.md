@@ -31,6 +31,16 @@ Penetración hogares: Nivel de penetración del servicio de internet en los hoga
 
 Accesos por velocidad: Desglose de los accesos según el rango de velocidad contratado.
 
+2) Archivo mapa_conectividad.xlsx
+Contiene datos geoespaciales que relacionan la ubicación geográfica con la conectividad, permitiendo un análisis territorial del acceso a internet:
+
+Provincia: Nombre de la provincia en Argentina.
+Localidad: Localidad correspondiente a cada registro.
+Partido: División administrativa.
+Latitud y Longitud: Coordenadas geográficas que permiten la visualización espacial de la conectividad.
+
+ 
+
 Primero se hizo uso del proceso de ETL (Extraccion, Transformacion y Limpieza), una vez analizados, limpieza de valores nulos, se hicieron transformaciones de tipos de datos, normalizaciones de las columnas y de las filas y luego se analizo las relaciones que pueden tener entre si.
 
 Se utilizo la tecnica del (EDA - Analisis Exploratorio de los Datos). Se exploraron y se hicieron graficas, para ver valores atipicos o fuera de rango, analisis atravez de graficos 
