@@ -51,8 +51,11 @@ que me muestran las tendencias y las bajas en los usos de las distintas tecnolog
 
 # DETALLES MAS RELEVANTES
 Segmentación Geográfica: Los datos fueron organizados por provincias, localidades y partidos para realizar un análisis territorial detallado.
+
 Comparación de Tecnologías: Se evaluaron las diferencias en la penetración de tecnologías como Fibra Óptica, ADSL y Satelital en diferentes regiones.
+
 Análisis Temporal: Se observó la evolución de los accesos a internet por tecnología y velocidad durante varios trimestres.
+
 Detección de Disparidades: Se identificaron las áreas más y menos conectadas, con un enfoque en zonas rurales y provincias con menor infraestructura tecnológica.
 
 Se generaron múltiples gráficos para respaldar el análisis:
@@ -63,7 +66,40 @@ Mapas de calor: Representación geoespacial de las velocidades de internet en ca
 Gráfico de líneas: Evolución temporal de la penetración de internet en la población y los hogares.
 Gráficos circulares (pastel): Distribución porcentual de los accesos por velocidad y tecnología.
 # KPIs ANALIZADOS
+Para dicho estudio se nos solicito el sigueinte KPIs, 
 
 # DASHBOARD 
-# REQUERIMIENTOS 
+Link de donde se encuentra el DASHBOARD.
+
+# INTERPRETACION DE LOS RESULTADOS
+<b>Velocidad de Conexión</b>
+Las provincias con mayores accesos a tecnologías avanzadas, como la Fibra Óptica, presentan mejores velocidades de conexión. Sin embargo, aún persisten áreas rurales donde la penetración de internet es baja o inexistente.
+
+<b>Acceso por Tecnología</b>
+El ADSL sigue siendo la tecnología más utilizada a nivel nacional, aunque hay un crecimiento considerable en la adopción de Cablemódem y Fibra Óptica en zonas urbanas. En las áreas más aisladas, la tecnología satelital es la única opción viable.
+
+<b>Penetración en Hogares y Población</b>
+Se identificaron provincias con tasas de penetración en hogares superiores al 80%, mientras que en otras regiones, esta cifra no supera el 40%, destacando una fuerte brecha digital.
+
+# CONCLUSIONES Y RECOMENDACIONES
+<b>Conclusiones</b>
+Existe una notable desigualdad en el acceso a internet entre las distintas provincias, especialmente en relación con la velocidad y el tipo de tecnología disponible.
+Las provincias con mayor acceso a tecnologías avanzadas (Fibra Óptica y Cablemódem) tienden a concentrarse en zonas urbanas y de mayor desarrollo económico.
+Las regiones rurales requieren mayor inversión en infraestructura para mejorar la conectividad, lo que podría cerrar la brecha digital y aumentar las oportunidades económicas.
+
+<b>Recomendaciones</b>
+Inversión en Infraestructura: Es crucial expandir el acceso a tecnologías de alta velocidad, como la Fibra Óptica, en zonas rurales y provincias menos conectadas.
+Estrategias de Inclusión Digital: Implementar políticas de subsidios o incentivos para llevar internet a hogares en áreas de baja penetración.
+Monitoreo y Actualización de Datos: Continuar monitoreando la evolución del acceso a internet y actualizar los datos regularmente para tomar decisiones basadas en evidencia.
+Incorporación de Datos Demográficos: Propon que se integre el análisis con datos demográficos adicionales, como niveles de ingreso por provincia o partido, que podrían proporcionar una visión más completa sobre la penetración tecnológica.
+
+<b>Recomendaciones en relacion a la presentacion de los informes</b>
+Integración con APIs Externas: Si los usuarios desean obtener datos más recientes o actualizados, puedes recomendar la integración con APIs públicas de datos abiertos. Por ejemplo, se podría sugerir el uso de la API del Indec o la API de ENACOM (si estuviera disponible) para enriquecer los datos.
+Análisis Espacial Más Completo: Si se trabaja con datos geográficos, podrías recomendar utilizar librerías como <b>Folium</b> para generar mapas interactivos. Esto puede ser útil para la parte de conectividad por provincia o localidad.
+
+# 
+
+
 # CONTACTO Y LINKS 
+Medios de contactos
+Email: systemeap@gmail.com
