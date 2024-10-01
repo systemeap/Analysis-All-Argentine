@@ -35,20 +35,35 @@ Accesos por velocidad: Desglose de los accesos según el rango de velocidad cont
 Contiene datos geoespaciales que relacionan la ubicación geográfica con la conectividad, permitiendo un análisis territorial del acceso a internet:
 
 Provincia: Nombre de la provincia en Argentina.
+
 Localidad: Localidad correspondiente a cada registro.
+
 Partido: División administrativa.
-Latitud y Longitud: Coordenadas geográficas que permiten la visualización espacial de la conectividad.
 
- 
+Tecnologias de conectividad: Como ADSL, Fibra Optica, Cablemodem, Satelital, 4G, 5G, etc.
 
-Primero se hizo uso del proceso de ETL (Extraccion, Transformacion y Limpieza), una vez analizados, limpieza de valores nulos, se hicieron transformaciones de tipos de datos, normalizaciones de las columnas y de las filas y luego se analizo las relaciones que pueden tener entre si.
+Latitud y Longitud: Coordenadas geográficas que permiten la visualización espacial de la conectividad. 
 
-Se utilizo la tecnica del (EDA - Analisis Exploratorio de los Datos). Se exploraron y se hicieron graficas, para ver valores atipicos o fuera de rango, analisis atravez de graficos 
+<b>Primero</b> se hizo uso del proceso de ETL (Extraccion, Transformacion y Limpieza), cuidando de preservar la estructura original para asegurar la integridad en el análisis posterior, una vez analizados, limpieza de valores nulos, se hicieron transformaciones de tipos de datos, normalizaciones de las columnas y de las filas y se validaron los datos para garantizar su calidad, eliminando duplicados, gestionando valores faltantes y corrigiendo inconsistencias.
+
+<b>En segundo lugar</b> Se utilizo la tecnica del (EDA - Analisis Exploratorio de los Datos). Se exploraron y se hicieron graficas, para ver valores atipicos o fuera de rango, analisis atravez de graficos 
 que me muestran las tendencias y las bajas en los usos de las distintas tecnologias y velocidades.
 
 # DETALLES MAS RELEVANTES
+Segmentación Geográfica: Los datos fueron organizados por provincias, localidades y partidos para realizar un análisis territorial detallado.
+Comparación de Tecnologías: Se evaluaron las diferencias en la penetración de tecnologías como Fibra Óptica, ADSL y Satelital en diferentes regiones.
+Análisis Temporal: Se observó la evolución de los accesos a internet por tecnología y velocidad durante varios trimestres.
+Detección de Disparidades: Se identificaron las áreas más y menos conectadas, con un enfoque en zonas rurales y provincias con menor infraestructura tecnológica.
 
+Se generaron múltiples gráficos para respaldar el análisis:
+Gráfico de barras: Comparación de accesos a internet por tecnología en las diferentes provincias.
+Graficos de barras apiladas: 
+GRaficos de areas y areas apiladas:
+Mapas de calor: Representación geoespacial de las velocidades de internet en cada región.
+Gráfico de líneas: Evolución temporal de la penetración de internet en la población y los hogares.
+Gráficos circulares (pastel): Distribución porcentual de los accesos por velocidad y tecnología.
 # KPIs ANALIZADOS
+
 # DASHBOARD 
 # REQUERIMIENTOS 
 # CONTACTO Y LINKS 
