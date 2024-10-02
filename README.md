@@ -1,4 +1,6 @@
 # Analysis-All-Argentina
+![Logo del proyecto](Assets/All_Argentina.jpg)
+
 Este proyecto ha sido desarrollado para ALL ARGENTINA, una empresa que brinda servicios de análisis de datos a nivel nacional. Me contrato a mi como DATA ANALITICS. El objetivo principal es analizar datos de ENACOM (Ente Nacional de Comunicaciones), enfocados en los servicios de internet en Argentina. El análisis de datos busca identificar patrones clave de conectividad y calidad del servicio, con el fin de proporcionar información valiosa que pueda apoyar en la toma de decisiones estratégicas para mejorar la infraestructura de telecomunicaciones. con respecto a la provincia que lo solicite.
 
 # APERTURA
@@ -78,7 +80,8 @@ Para dicho estudio se nos solicito el sigueinte KPIs
 
 
 # DASHBOARD 
-Link de donde se encuentra el DASHBOARD.
+Link de donde se encuentra el DASHBOARD. 
+Proyecto_All Argentina.pbix
 
 # INTERPRETACION DE LOS RESULTADOS
 <b>Velocidad de Conexión</b>
