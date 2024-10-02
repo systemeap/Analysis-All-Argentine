@@ -1,7 +1,7 @@
 # Analysis-All-Argentina
 
 satelite_all Argentina.jpg
-![Logo del proyecto](Assets/Fondo1.jpg)
+![Logo del proyecto](Assets/All_Argentina.jpg)
 ![Logo del proyecto](Assets/satelite_all Argentina.jpg)
 Este proyecto ha sido desarrollado para ALL ARGENTINA, una empresa que brinda servicios de análisis de datos a nivel nacional. Me contrato a mi como DATA ANALITICS. El objetivo principal es analizar datos de ENACOM (Ente Nacional de Comunicaciones), enfocados en los servicios de internet en Argentina. El análisis de datos busca identificar patrones clave de conectividad y calidad del servicio, con el fin de proporcionar información valiosa que pueda apoyar en la toma de decisiones estratégicas para mejorar la infraestructura de telecomunicaciones. con respecto a la provincia que lo solicite.
 
