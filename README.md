@@ -78,7 +78,8 @@ Para dicho estudio se nos solicito el sigueinte KPIs
 
 
 # DASHBOARD 
-Link de donde se encuentra el DASHBOARD.
+Link de donde se encuentra el DASHBOARD. 
+Proyecto_All Argentina.pbix
 
 # INTERPRETACION DE LOS RESULTADOS
 <b>Velocidad de Conexión</b>
