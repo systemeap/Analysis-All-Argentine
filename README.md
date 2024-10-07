@@ -73,8 +73,17 @@ Gráficos circulares (pastel): Distribución porcentual de los accesos por veloc
 Para dicho estudio se nos solicito el sigueinte KPIs
 1) Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. La fórmula es la siguiente:
  KPI = ((Nuevoacceso - AccesoActual / AccesoActual)*100)
-   
-    
+
+2) Penetracion de internet en un 2% por hogares. Este KPI mide el porcentaje de hogares que tienen acceso a Internet en comparación con el total de hogares de la provincia.
+O sea la meta objetiva es incrementar en un 2%.
+PorcentajePenetracion = AVERAGE([Acceso por cada 100 hogares])   # PorcetajePenetracion o Total de hogares por prov.
+TotalAcceso = ((TotalHogaresProv*100)/Acceso cada 100 hogares).
+
+3) Crecimiento anual del acceso a Internet. Este KPIs mide el porcentaje de crecimiento en el acceso a Internet en cada provincia comparando el trimestre actual con el mismo trimestre del año anterior.
+
+Crea una medida para calcular el acceso en el trimestre del año pasado (asegúrate de tener el dato disponible):    
+Acceso_AñoAnterior = CALCULATE([AccesoActual], SAMEPERIODLASTYEAR(Fecha[Fecha]))    
+Donde acceso actual, ya lo tenemos de la tabla, penetraccion por hogares, es la llamada "Acceso por cada 100 hogares"
 
 
 
