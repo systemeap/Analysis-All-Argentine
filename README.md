@@ -83,7 +83,8 @@ TotalAcceso = ((TotalHogaresProv*100)/Acceso cada 100 hogares).
 
 Crea una medida para calcular el acceso en el trimestre del año pasado (asegúrate de tener el dato disponible):    
 Acceso_AñoAnterior = CALCULATE([AccesoActual], SAMEPERIODLASTYEAR(Fecha[Fecha]))    
-Donde acceso actual, ya lo tenemos de la tabla, penetraccion por hogares, es la llamada "Acceso por cada 100 hogares"
+Donde acceso actual, ya lo tenemos de la tabla, penetraccion por hogares, es la llamada "Acceso por cada 100 hogares".
+KPI_CrecimientoAnual = (([AccesoActual] - [Acceso_AñoAnterior]) / [Acceso_AñoAnterior]) * 100
 
 
 
